@@ -159,4 +159,4 @@ tests/lua-tests/project/proj.tizen/res/
 cocos2d-html5/
 frameworks/cocos2d-x/build/build/
 publish/
-*/build/
+/frameworks/cocos2d-x/cocos/scripting/js-bindings/proj.ios_mac/build/
