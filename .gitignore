@@ -157,4 +157,5 @@ tests/lua-tests/project/proj.tizen/res/
 
 
 cocos2d-html5/
-cocos2d-x/build/build/
+frameworks/cocos2d-x/build/build/
+publish/
