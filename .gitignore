@@ -160,3 +160,4 @@ cocos2d-html5/
 frameworks/cocos2d-x/build/build/
 publish/
 /frameworks/cocos2d-x/cocos/scripting/js-bindings/proj.ios_mac/build/
+/frameworks/runtime-src/proj.ios_mac/build/game.build/
